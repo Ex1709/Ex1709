@@ -2,7 +2,7 @@
 
 class Info():
   Username = "Ex",
-  Age      = "16"
+  Age      = "18"
 
 
 ```
