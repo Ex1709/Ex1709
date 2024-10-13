@@ -1,8 +1,5 @@
-```py
+```p
 
-class Info():
-  Username = "Ex",
-  Age      = "18"
-
+ok
 
 ```
